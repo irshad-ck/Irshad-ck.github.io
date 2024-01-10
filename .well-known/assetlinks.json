@@ -1,1 +1,5 @@
-[]
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.validverified.valid",
+               "sha256_cert_fingerprints": ["5C:89:CD:94:32:88:51:0B:0A:FE:49:8E:B2:A9:BE:B6:06:E9:89:6F:25:DD:26:BE:D8:0D:DF:3E:61:50:08:7C"] }
+}]
